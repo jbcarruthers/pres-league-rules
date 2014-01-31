@@ -1,0 +1,77 @@
+Pre-season Team Entry and Challenge Round
+-----------------------------------------
+
+Teams ranked 1 to 14 are in the league without challenge. All other
+teams are placed into the challenge round to determine four additional
+teams.
+
+
+19 or 20 teams: one pool, top four are in
+21 to 26 teams. two pools, top two from each pool are in.
+27 or more teams: four pools, top one from each pool is in.
+
+
+For each pool, the highest ranked team is the pool captain. 
+
+In the case of un-even pool sizes, additional teams Bye1, Bye2, etc,
+are added to make the number of teams evenly divisible by the number
+of pools.
+
+The pool captains take turns picking teams to join their pool in
+round-robin fashion until all teams are formed into a pool.
+
+The final pool rankings will be determined as follows:
+
+* record (most wins)
+* head-to-head (this rule is only applied once. For example , if three
+  teams are tied in record, and their head-to-heads are 1-1, 1-1, and
+  0-2, the two teams tied are 1-1 "continue" and are evaluated by the
+  next item, not by head-to-head again)
+* ends won
+* points scored
+* team shootout
+
+
+Examples: 19 teams
+
+C1 C2 pick from C3, C4, and C5, and Bye
+
+C1: bye
+C2: C3
+C3:
+Mid-season Challenge Rounds
+---------------------------
+
+Mid-season challenge rounds are eliminated. 
+
+
+Fifths
+------
+
+* all players (fifths, alternates, regulars) who played in 3 or more
+  games are eligible for points
+
+* each team is alloted 400 percent of the team ranking point value to
+  be split among its players by mutual agreement, or if no agreement,
+  by skip's vote. Each eligible player can be assigned a fraction from
+  0.0 to 1.0 of the team ranking point value, as long as the sum of
+  the points allocated adds up to 4 times the base team ranking point
+  value. Example: A team with 5 members places 11th and earns 19.5
+  points per player. The following are valid assignments:
+
+  example one: 1 100%, 2 80%, 3 80%, 4 60%, 5 80%
+  example two: 1 80%, 2 80%, 3 80%, 4 80%, 5 80%
+  example three: 1 100%, 2 100%, 3 100%, 4 50%, 5 50%
+
+  In example three, player 5 would earn 50% * 19.5 = 9.75 points.
+  
+
+Team Ranking 
+------------
+
+At the start of the season, teams are ranked by summing player points.
+
+The "team ranking point total" will be calculated by adding the four
+player totals if four players are registered on the team, or the
+highest four player totals if five players are registered on the team.
+
