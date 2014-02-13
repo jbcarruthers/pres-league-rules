@@ -125,6 +125,12 @@ After the completion of a round, new teams may enter into the C bracket.
 5. C bracket game-points would be 3 during rounds in which a seven
 team round robin is not played. During a regular 7-team round robin, C bracket game points would be 2 for a win, 0 for a loss.
 
+6. In the first round, the USCA peer seeding process will be followed, with the teams placed in two pools as follows:
+
+Pool 1: 1,4,5,8,9,12,13...
+Pool 2: 2,3,6,7,10,11...
+
+In all subsequent rounds, if two pools are formed, pools will form based on president's league ranking from the current season.
 
 7. Bracket Interchange
 ----------------------
