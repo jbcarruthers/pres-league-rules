@@ -1,5 +1,5 @@
 CONTENTS
-
+--------
 Team Ranking and Player Points
   1. Team Ranking
   2. Player points
@@ -13,6 +13,7 @@ Brackets and League Format
 
 
 TEAM RANKINGS AND PLAYER POINTS
+-------------------------------
 
 1. Team Ranking
 ---------------
