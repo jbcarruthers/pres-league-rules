@@ -1,0 +1,138 @@
+Dear President's Leaguers:
+
+The following proposal arises out of my observations of the league as a player and 
+coordinator as well as many conversations I have had with current and former players
+about points, challenges, rules, etc.
+
+It is not yet a formal proposal and has not been approved by anyone (such as the Board)
+except me.
+
+It is a great league, but let's make it better!
+
+------------------
+
+The following proposed changes to the format for President's League are intended to address the following issues:
+
+-- the league is limited to 18 teams, and employs a challenge round system to fill the last two spots. 
+   Many more teams would like to participate if there was room in the league (about 25 teams played or challenged this year)
+
+-- the ranking system has flaws (see below) and the challenge round system has flaws (scheduling, finding ice time, etc)
+
+-- the league size limit places enormous importance on the player-point assignment algorithm, and can lead to 
+   team selection based on point status rather than merit.
+
+-- league entry into the league is based on previous performance in the league, which is a barrier to entry for new teams.
+
+-- player points are assigned based solely on last year's performance, unfairly penalizing absences from the league.
+
+-- the season is not long enough to run 3 full round robins (even when Christmas/New Years falls away from Tuesday).
+   This leads to inequities in scheduling the final partial "round robin"
+
+I would like to propose
+(a) increasing the size of the league
+(b) improving the league entry / challenge system
+(c) improving the formula for allocating player points.
+
+
+Formula for allocating player points.
+-------------------------------------
+
+The current formula for allocating player points would remain, with the following modifications:
+
+-- each player will be assigned the larger of the following points:
+ 
+  - "Normal Points": the team points assigned to the player based on the prior year team placement.
+    Recall that the last placed team players are assigned 10 points.
+
+  - "Baseline Points": three points for each President's League season played in the past 7 years, 
+    up to a maximum of 15 points.
+
+-- at the start of the season, teams are ranked by summing player points. The "team ranking point total" 
+will be calculated by adding the four player totals if four players are registered on the team, or the
+highest four player totals if five players are registered on the team.
+
+
+League Brackets and Team Entry 
+------------------------------
+
+Teams ranked 1 to 7 are seeded into the first round of A bracket.
+
+Teams ranked 8 to 14 are seeded into the first round of B bracket. 
+
+All other teams are placed in the C bracket.
+
+
+A and B bracket format
+----------------------
+
+A full round robin of 7 teams requires 21 games: 3 games each week
+over 7 weeks. Each team will have one bye during each round.
+
+The A and B bracket will each play three full round robins, and will
+then enter a 2-game 16-team playoff (same format as currently). This
+requires 23 games: any extra games will be played after the third
+round robin and before the playoffs.
+
+
+C bracket format
+----------------
+
+Concept One:
+  - all challenge rounds are eliminated.
+  - C bracket rounds will be 7 weeks (to match A/B bracket rounds) and will either be a full-round robin (7 teams)
+    or two pools (8 or more teams)
+
+Concept Two:
+  - all challenge rounds are eliminated.
+  - first first round will be 7 weeks, and 7 teams will remain after the first round
+  - the second and third round will be full-round robins co-inciding with the A and B brackets.
+
+  Concept Three:
+   -a pre-season challenge round will be played amongst teams 15+ to pick seven teams
+   -the C bracket will then play three full round robins 
+
+
+When will C bracket games occur?
+--------------------------------    
+First, note that there are only 6 A/B games each week, so two sheets are available on Tuesdays for C bracket games.
+
+There are at least three methods for accommodating the C bracket:
+
+Method One:  Fewer games. All games would occur on Tuesday, but a full round robin would not be possible in 7 weeks on 2 sheets.
+
+Method Two: Shorter games. We could play 3 games on one sheet on a Tuesday if the games were timed with a hard maximum of 85 minutes.
+   Example: Game 1: 6pm start. Game 2: 7:30pm start. Game 3: 9pm start.
+
+Method Three: One sheet a week on a different night. This would require finding ice time on a different night (possibly not always the same night.) 
+
+
+Bracket Interchange
+-------------------
+
+At the end of each round, the bottom two A bracket teams swap places with the top two B bracket teams. 
+
+The bottom two B bracket teams swap places with the top two C bracket teams. If the C bracket round was a "single pool", then the top two teams enter into B. If the C bracket round was a "double pool", then the top team from each pool enters into B.
+
+Game Points
+-----------
+Currently, A games are worth 5 (win) and 1 (loss). B games are worth 3 (win) and 0 (loss).
+
+If a C bracket is introduced, I propose we double the A and B bracket win numbers (to avoid fractions)
+and assign points as follows:
+
+A: 10 win, 2 loss
+B:  6 win, 1 loss
+C:  3 win, 0 loss
+
+Note: if fewer C bracket games are played due to league size (i.e. more than 21 teams / 7 in C), 
+it might make sense to make B and C bracket games equal in point values.
+
+I am eager to get feedback on this proposal, in person or via email. 
+
+Tonight I have the late game, and would be happy to talk about this and any other suggestions you might have 
+before or after my game.
+
+All the best,
+Jeff Carruthers
+
+[Please to not reply all to this email. It has about 100 recipients (all current players plus the sub list)]
