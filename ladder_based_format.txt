@@ -1,0 +1,64 @@
+LADDER BASED LEAGUE FORMAT
+--------------------------
+
+There are no points for winning games. 
+Rankings will be determined by bracket placement and results, as described below.
+
+Each round has four 5-team brackets, labelled A, B, C, D.
+
+[Initial placement into brackets: A1-A5, B1-B5, C1-C4 by ranking. 
+Winner of Challenge becomes C5, 5 other teams from challenge go into D.]
+
+After round one,
+ bottom two from A swap with top two from B.
+ bottom two from B swap with top two from C.
+ bottom two from C swap with top two from D. (note: bottom 2 from C are OUT)
+
+At end of round two:
+ bottom one from A swaps with top one from B.
+ bottom one from B swaps with top one from C. (note: bottom B is OUT)
+ bottom one from C swaps with top one from D.
+
+After round three:
+ bottom one from A swaps with top one from B. (note: bottom A is OUT)
+ bottom one from B swaps with top one from C.
+ bottom one from C swaps with top one from D.
+ 
+ PLAYOFFS
+ --------
+ After round four:
+  A1-A4 are in Presidents.
+  A5 and B1-B3 are in Moore.
+  B4,B5,C1,C2 are in Tequila
+  C3,C4,C5,D1 are in Cheap Wine.
+  D2-D5 are out.
+
+During round 1: all teams can win league
+During round 2: only A,B, and C teams can win the league
+During round 3: only A and B teams can win the league
+During round 4: only current A teams can win the league
+
+END OF ROUND RANKINGS / TIE BREAKERS
+------------
+
+Tie breakers are critical in this league format since team-movement is everything.
+
+At the end of each round, teams from each bracket will be ranked one to five, as follows.
+
+1. Best round record (e.g. 4-0, 3-1 , 2-2 , 1-3 , 0-4)
+2. Head-to-head record in the round (this is definitive in all cases with two-way ties)
+3. Most A bracket wins for season. 
+4. Most B bracket wins for season. 
+5. Most C bracket wins for season. 
+6. Most D bracket wins for season.
+7. Fewest forfeited games
+8. Lowest shootout score
+9. Coin-flip/draw straws.
+
+SUMMARY OF PROS-CONS
+--------------------
+- PRO: games become progressively more meaningful as the season progresses. Early season losses are irrelevant in determining placement for most teams.
+
+- CON: since not every game matters, more forfeits and less focus is possible
+
+- PRO: there is no artificial re-shuffling based on "A points" and "B points".

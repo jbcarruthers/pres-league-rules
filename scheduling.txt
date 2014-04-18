@@ -1,0 +1,39 @@
+SCHEDULING
+----------
+
+
+22 week season (rare): 
+4 rounds of 5 weeks, 2 weeks of playoffs
+
+23 week season (Christman/NewYears overlap Tuesday)
+4 rounds of 5 weeks, 2 weeks of playoffs, 1 snow/makeup
+
+24 week season
+4 rounds of 5 weeks, 3 weeks of playoffs, 1 snow/makeup
+
+25 week season
+4 rounds of 5 weeks, 3 weeks of playoffs, 2 fun/snow/makeup
+
+CHALLENGE ROUND
+---------------
+22 teams (two teams out)
+
+8 teams form two pools of 4 by peer seeding, as follows:
+
+Pool 1: C1 C4 C5 C8
+Pool 2: C2 C3 C6 C7
+
+Bottom team from each pool is out.
+
+Teams 15 and 16 cannot be in the same pool.
+
+Team 16 will swap with team in opposite pool closest 
+to its rank. Example: if 15 is ranked C2 and 16
+is ranked 3, then 16 swaps with C4
+
+
+Peer Seeding Process
+---------------------
+
+All N teams in challenge round rank each other 1 to N.
+

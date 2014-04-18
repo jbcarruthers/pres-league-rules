@@ -1,43 +1,65 @@
 Dear President's Leaguers:
 
-Summary.
-- top 14 teams are in league for entire season.
+Thanks once again for your feedback on proposed re-structuring of the brackets and league entry system. 
 
+Here is my final proposal for re-structuring the league, pending possible input from the board and more constructive criticism from interested parties.
+
+Summary of league format rules:
+ - top 14 teams are in league for entire season
+ - up to 28 teams for 7 weeks; 3 game guarantee for teams 15 and below
+ - all games are on Tuesday; no "extra" challenge round games
+ - league size drops from 21+ to 20 to 18 to 16 
+ - A bracket teams have 3 byes exactly.
+ - most B bracket teams have 3 byes, but some will have 5 byes.
+ - the timing and size of the brackets may vary somewhat from year to year depending on the number of game weeks available.
+
+ The following schedule is for a "long year": 25 game weeks. 
+(2013/2014 was a short year, i.e. 23 game weeks)
+
+For a picture: https://raw.githubusercontent.com/jbcarruthers/pres-league-rules/master/bracket_picture.png
 
 Round One: 21+ teams, 7 weeks (Oct 14 - Nov 25)
 ------------------------------------------------
 A,B bracket placement will be by team points (current system)
 
-A bracket: 7 teams, full round robin (six games, one bye)
-B bracket: 7 teams, full round robin (six games, one bye)
-C bracket: 7-10 teams, (four games, three byes), 11-14 teams (3 games, four byes), 15+ teams (?)
+A1 bracket: 7 teams, full round robin (six games, one bye)
+B1 bracket: 7 teams, full round robin (six games, one bye)
+C1 bracket: 7-10 teams, (four games, three byes), 
+            11-14 teams (3 games, four byes), 
+            15+ teams (?)
 
-[A games (7*6 /2) + B games ( 7*6 /2 ) + C games (7*4/2) = 7*8 = sheets for 7 weeks.]
+[See notes in Addendum for scheduling calculations]
 
-If necessary (more than 21 teams), C games will be six ends to accomodate 4 games each.
-
-Examples: 
-21 teams: 7 in C. We need 7*4/2 = 14 games. C bracket plays normal 8-end games all session.
-24 teams, 10 in C. We need 10*4/2 = 20 games. 6 weeks 3 games, 1 week 2 games.
-28 teams, 14 in C. We need 14*3/2 = 21 games. 7 weeks 3 games on one sheet/night
-
+RESULTS:
+ - bottom A1 team moves to B2+
+ - two bottom B1 teams moves to B2-
+ - top six C1 teams survive.
+    * top two C1 move to B2- (in for rest of season)
+    * next four C1 move to C2
 
 Round Two: 20 teams, 6 weeks (Dec 2 - Jan 6)
 ----------------------------------------------
-A bracket: 6 teams, (5 games, one bye)
-B bracket: 6 teams, (5 games, one bye)
-C bracket: 4 teams (3 games, three byes)
-D bracket: 4 teams (6 games, no byes). 
+A2 bracket: 6 teams, (5 games, one bye)
+B2+ bracket: 6 teams, (5 games, one bye)
+B2- bracket: 4 teams (3 games, three byes)
+C2 bracket: 4 teams (6 games, no byes). 
 
-A games (6*5/2) + B games (6*5/2) + C games (4*3/2) + D games (4*3) = 48 sheets.
+RESULTS:
+ - A2 moves to A3
+ - top three B2+ move to A3
+ - bottom three B2+ move to B3
+ - B2- moves to B3
+ - top two C2 teams move to B3, others eliminated.
 
-
+[See addendum for proposed "short year" schedule.]
 
 Round Three: 18 teams, 9 weeks (Jan 13 - Mar 17)
 ------------------------------------------------
-A bracket: 9 teams, full round robin
-B bracket: 9 teams, full round robin
+A3 bracket: 9 teams, full round robin
+B3 bracket: 9 teams, full round robin
 
+RESULTS:
+ - top 16 by season points move to playoffs.
 
 Round Four: 1 week (Mar 24)
 ---------------------------
@@ -47,14 +69,56 @@ Round Five: 2 weeks (Mar 31, Apr 7)
 -----------------------------------
 Playoffs: same format. (2 week playoffs in brackets of 4)
 
-Note: teams eliminated after round 1 and 2 are eligible for playoffs if they are in the top 16 by points.
+Note: teams eliminated after round 1 and 2 are eligible for playoffs if they are in the top 16 by points. Unlikely, but possible.
 
 
-Other rules:
- - all A bracket games will  be 5 points / 1 point as now
- - all B/C/Elimination games will be 3 points/win.
+POINTS per game:
+----------------
+ All A bracket games: 5 win, 1 loss
+ All B bracket games: 3 win, 0 loss
+ C1 bracket games: 3 win, 0 loss
+ C2 bracket games: 1.5 win, 0 loss (balances with B2-)
+ 
 
-Finally, I have decide to hold off on any changes to the player point rule. While I think the new rule is better long term, it only makes sense to change the rule when the league is already the correct size. 
-Otherwise, it may favor "regular/semi-incumbent" players too much.
+Common Principles to be applied in scheduling every season
+----------------------------------------------------------
 
+ - teams seeded into brackets based on total team points
+ - minimize byes for higher ranked teams
+ - use full round robins and equal numbers of games as much as possible
+ - allow for bracket interchange 
+ - use game point assignments to reflect relative difficulty of wins/losses in different brackets.
+ - keep all games on Tuesdays
 
+ADDENDUM (math, boring details)
+
+Notes on Round One
+------------------
+[A games (7*6 /2) + B games ( 7*6 /2 ) + C games (7*4/2) = 7*8 = sheets for 7 weeks.]
+
+If necessary (more than 21 teams), C games will be six ends to accommodate 4 games each.
+
+Examples: 
+21 teams: 7 in C1. We need 7*4/2 = 14 games. C bracket plays normal 8-end games all session.
+24 teams, 10 in C1. We need 10*4/2 = 20 games. 6 weeks 3 games, 1 week 2 games.
+28 teams, 14 in C21. We need 14*3/2 = 21 games. 7 weeks 3 games on one sheet/night
+
+Notes on Round Two
+------------------
+
+A games (6*5/2)   +
+B2+ games (6*5/2) +
+B2- games (4*3/2) +
+C2 games (4*3) = 48 sheets
+
+Round 2 would be shortened to 4 weeks in a "short year", as follows:
+(32 games available)
+A2+ 4 teams  full round robin (3 games each, one bye)
+A2- 4 teams  full round robin (3 games each, one bye)
+B2+ 4 teams  full round robin (3 games each, one bye)
+B2- 4 teams  full round robin (3 games each, one bye)
+C   4 teams: full round robin (3 games each, one bye)
+
+This leaves two extra game slots available for make up games or possibly C-bracket tiebreakers.
+
+Would have to adjust points in A2+ and A2- (otherwise easier to collect points by being in A2-).

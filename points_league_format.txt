@@ -1,0 +1,66 @@
+POINTS-BASED LEAGUE FORMAT
+--------------------------
+
+Top 10 teams are placed in A.
+Next 4 are in B with winners of challenge round.
+
+Round One
+---------
+
+Teams are split into two A brackets and two B brackets, as follows:
+
+A1, A4, A5, A8, A9
+A2, A3, A6, A7, A10
+
+B1, B4, B5, B8, B9
+B2, B3, B6, B7, B10
+
+Round Two
+---------
+After round one,
+ Top team from each B pool moves to A
+ Bottom team from each A pool moves to B.
+
+Ten teams in each bracket are ranked, as follows:
+1. Season Points
+2. Head-to-head for season
+3. Last Round Points
+4. Head-to-head for last round
+5. Ranking at the beginning of the previous round.
+
+Round Three
+-----------
+
+After round two,
+ Top team from each B pool moves to A
+ Bottom team from each A pool moves to B.
+
+Ten teams in each bracket are ranked, as follows:
+1. Season Points
+2. Head-to-head for season
+3. Last Round Points
+4. Head-to-head for last round
+5. Ranking at the beginning of the previous round.
+
+
+Round Four
+----------
+After round three, all twenty teams are ranked as follows:
+1. Season points
+2. Head-to-head (highest winning percentage among tied teams)
+3. Ranking at the beginning of previous round
+
+Top 10 are placed in A, bottom ten in B.
+
+POINTS
+------
+
+A bracket: 5 win, 1 loss
+B bracket: 3 win
+
+PLAYOFFS
+--------
+After round four, all twenty teams are ranked as follows:
+1. Season points
+2. Head-to-head for season
+3. Ranking at the beginning of previous round
