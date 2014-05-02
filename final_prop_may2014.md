@@ -1,4 +1,4 @@
-# Final Proposal - New President's League Rules
+# Proposal - New President's League Rules
 
 1. Background
 1. Motivating principles for President's League Rules
@@ -34,6 +34,10 @@ unfairly penalizing absences from the league.
 
 - the season is not long enough to run 3 full round robins
  (even when Christmas/New Years falls away from Tuesday). This leads to inequities in scheduling the final partial "round robin"
+
+Earlier versions of this document were circulated to President's League members for comment throughout the spring of 2014, and an open forum to discuss the changes was announced and held on April 15th, 2014. 
+
+This document represents the results of those discussions and meetings.
 
 ## 2. Motivating principles for President's League Rules
 
