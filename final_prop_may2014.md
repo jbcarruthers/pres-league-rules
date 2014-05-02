@@ -6,9 +6,9 @@
 1. Summary of new league format rules
 1. Challenge Round Format Details
 1. Possible Schedules
- a. Points
- a. Ladder
- a. Balanced
+  a. Points
+  a. Ladder
+  a. Balanced
 
 ## 1. Background
 
