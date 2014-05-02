@@ -7,9 +7,9 @@
 5. Challenge Round Format Details
 6. Possible Schedules
 
- 6a. Points
- 6b. Ladder
- 6c. Balanced
+ a. Points
+ b. Ladder
+ c. Balanced
 
 ## 1. Background
 
