@@ -115,10 +115,10 @@ REQUIRES: 3 full draws, 3 games each
 11. L2-L5 loser out (11v8)
 12. L3-L4 loser out (10v9)
 
-13. W10-L7 (7v6)
-14. W11-L8 (8v5)
-15. W12-L9 (9v4)
-16. 
+
+13. W10-L7 (7v6) winner in, loser out
+14. W11-L8 (8v5) winner in, loser out
+15. W12-L9 (9v4) winner in, loser out
 
 Requires 4 draws.
 
