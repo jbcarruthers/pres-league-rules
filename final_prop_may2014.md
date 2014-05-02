@@ -1,46 +1,39 @@
 # Final Proposal - New President's League Rules
 
 1. Background
-
 2. Motivating principles for President's League Rules
-
 3. Changes we need from the club
-
 4. Summary of new league format rules
-
 5. Challenge Round Format Details
-
 6. Possible Schedules
 
-     6a. Points
-
-     6b. Ladder
-
-     6c. Balanced
+ 6a. Points
+ 6b. Ladder
+ 6c. Balanced
 
 ## 1. Background
 
 The following proposed changes to the format for President's League 
 are intended to address the following issues:
 
--- the league is limited to 18 teams, and employs a challenge 
+- the league is limited to 18 teams, and employs a challenge 
 round system to fill the last two spots. Many more teams would like 
 to participate if there was room in the league (about 25 teams 
 played or challenged this year)
 
--- the ranking system has flaws (see below) and the challenge 
+- the ranking system has flaws (see below) and the challenge 
 round system has flaws (scheduling, finding ice time, etc)
 
--- the league size limit places enormous importance on the player-point 
+- the league size limit places enormous importance on the player-point 
 assignment algorithm, and can lead to team selection based on point status rather than merit.
 
--- league entry into the league is based on previous performance 
+- league entry into the league is based on previous performance 
 in the league, which is a barrier to entry for new teams.
 
--- player points are assigned based solely on last year's performance, 
+- player points are assigned based solely on last year's performance, 
 unfairly penalizing absences from the league.
 
--- the season is not long enough to run 3 full round robins
+- the season is not long enough to run 3 full round robins
  (even when Christmas/New Years falls away from Tuesday). This leads to inequities in scheduling the final partial "round robin"
 
 ## 2. Motivating principles for President's League Rules
@@ -68,13 +61,13 @@ unfairly penalizing absences from the league.
 - the team rank at the BEGINNING OF THE SEASON will be determined by the sum of the points of each entering team's TOP THREE PLAYERS' points from the immediate prior season.
 (i.e. team 1 has highest sum-of-three, team 2 has next highest sum-of-three, and so forth)
 
- - the league will consist of twenty teams during the regular season. During the playoffs (final weeks of the season), the bottom four teams can be assigned byes throughout the playoffs. 
+- the league will consist of twenty teams during the regular season. During the playoffs (final weeks of the season), the bottom four teams can be assigned byes throughout the playoffs. 
 
- - the top 14 teams by rank are in league without challenge
+- the top 14 teams by rank are in league without challenge
 
- - teams ranked 15 and below will enter a pre-season challenge round to pick six additional teams. The format will depend on ice availability and number of teams. All teams will be assigned "equivalent" schedules, i.e. there will be no "short paths" based on rank.
+- teams ranked 15 and below will enter a pre-season challenge round to pick six additional teams. The format will depend on ice availability and number of teams. All teams will be assigned "equivalent" schedules, i.e. there will be no "short paths" based on rank.
 
- - the season schedule will typically consist of full round robin rounds followed by playoffs.
+- the season schedule will typically consist of full round robin rounds followed by playoffs.
 The format of the brackets will be determined by a Presidents League Scheduling Committee based on the number of league days available. Three formats are currently under consideration
  
   1. A/B bracket (similar to current: points determine playoff seeding)
