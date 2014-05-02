@@ -1,17 +1,17 @@
 Final Proposal - New President's League Rules
 ---------------------------------------------
 
-1. Motivation and Background
-2. Statement of Motivating principles for President's League Rules
+1. Background
+2. Motivating principles for President's League Rules
 3. Changes we need from the club
 4. Summary of new league format rules
 5. Challenge Round Format Details
 6. Possible Schedules
- 6a. Points
- 6b. Ladder
- 6c. Balanced
+     6a. Points
+     6b. Ladder
+     6c. Balanced
 
-## Motivation and Background
+## 1. Background
 
 The following proposed changes to the format for President's League 
 are intended to address the following issues:
@@ -36,14 +36,14 @@ unfairly penalizing absences from the league.
 -- the season is not long enough to run 3 full round robins
  (even when Christmas/New Years falls away from Tuesday). This leads to inequities in scheduling the final partial "round robin"
 
-## Motivating principles for President's League Rules
+## 2. Motivating principles for President's League Rules
 
 - provide a league size consistent with a high level of play and appropriate to the club's membership size and the number of sheets and draws available for the league.
 
 - encourage a high level of play through a balance of (a) stability (b) experience (c) merit/talent. This balance is achieved by allowing successful teams and players to remain in the league while also providing a fair performance-based mechanism for new teams and/or players to enter the league.
 
 
-## Changes we need from the club
+## 3. Changes we need from the club
 
 1. A pre-arranged pre-season Saturday or Sunday of ice time (all day)
 2. Early registration deadline (9 days prior to the challenge round day)
@@ -52,7 +52,7 @@ unfairly penalizing absences from the league.
    - the FIRST 30-N teams with no points. 
 
 
-## Summary of league format rules
+## 4. Summary of league format rules
 
 - the purpose of President's league is to provide Broomstones members a weekly league with the highest possible level of play. 
 
@@ -77,7 +77,7 @@ The format of the brackets will be determined by a Presidents League Scheduling 
 
 
 
-## Challenge Round Format Details
+## 5. Challenge Round Format Details
 
 
 ### 22 teams (two teams out)
@@ -166,9 +166,9 @@ For each team, drop the top and bottom seed and average the rest, i.e.
 
  Seeding=mean(middle N-3 seeds) 
 
-## Possible Schedules
+## 6. Possible Schedules
 
-### Points-based League Format
+### 6a. Points-based League Format
 
 Top 10 teams are placed in A.
 Next 4 are in B with the 6 winners of challenge round.
@@ -231,7 +231,7 @@ After round four, all twenty teams are ranked as follows:
 2. Head-to-head for season
 3. Ranking at the beginning of previous round
 
-### Ladder Based League Format
+### 6b. Ladder Based League Format
 
 
 There are no points for winning games. 
@@ -295,5 +295,59 @@ At the end of each round, teams from each bracket will be ranked one to five, as
 
 - PRO: there is no artificial re-shuffling based on "A points" and "B points".
 
+### 6c. Balanced League Format
+
+
+There are no points for winning games. 
+Rankings will be determined by bracket placement and results, as described below.
+
+During each round, the league will be split into two balanced ten-team brackets.
+
+
+Red division:    1 4 5 8  9 12 13 16 17 20
+Yellow division: 2 3 6 7 10 11 14 15 18 19
+
+Each round will require 90 games to be played in 11 weeks. This means that once a round, six games will be played on two sheets instead of four. The games can be six-ends to make the timing reasonable.
+
+
+After round one,
+ Teams are ranked 1-10 in each division. 
+
+ Teams in the EVEN spots swap leagues:
+ 
+ yellow 2 swaps with red 2 
+ yellow 4 swaps with red 4
+ yellow 6 swaps with red 6
+ yellow 8 swaps with red 8  
+ yellow 10 swaps with red 10
+
+At end of round two, we will be in the playoffs.
+
+#### PLAYOFFS
+
+Top four teams are in Presidents.
+Next four are in Moore.
+Next four are in Tequila
+Next four are in Cheap Wine
+Next four are in Bad Moonshine
+
+#### END OF ROUND RANKINGS / TIE BREAKERS
+
+
+1. Best overall record.
+2. Best round record.
+3. Head-to-head record overall 
+4. Head-to-head record in the round
+5. Fewest forfeited games
+6. Lowest shootout score
+7. Coin-flip/draw straws.
+
+SUMMARY OF PROS-CONS
+--------------------
+- PRO: everyone has a fair shot at winning the league
+
+- PRO: there is no artificial re-shuffling based on "A points" and "B points".
+
+- CON: there may be more "blowouts" since top "A" teams will play "B" teams often.
 
   
