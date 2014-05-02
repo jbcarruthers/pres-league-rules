@@ -304,35 +304,30 @@ During each round, the league will be split into two balanced ten-team brackets.
 
 
 Red division:    1 4 5 8  9 12 13 16 17 20
+
 Yellow division: 2 3 6 7 10 11 14 15 18 19
 
-Each round will require 90 games to be played in 11 weeks. This means that once a round, six games will be played on two sheets instead of four. The games can be six-ends to make the timing reasonable.
+Each round will require 90 games to be played in 11 weeks. This means that once a round, six games will be played on two sheets instead of four. The games can be six ends to make the timing reasonable.
 
 
 After round one,
- Teams are ranked 1-10 in each division. 
-
- Teams in the EVEN spots swap leagues:
- 
- yellow 2 swaps with red 2 
- yellow 4 swaps with red 4
- yellow 6 swaps with red 6
- yellow 8 swaps with red 8  
- yellow 10 swaps with red 10
+ - Teams are ranked 1-10 in each division. 
+ - Teams in the EVEN spots swap leagues:
+  - yellow 2 swaps with red 2 
+  - yellow 4 swaps with red 4
+  - yellow 6 swaps with red 6
+  - yellow 8 swaps with red 8
+  - yellow 10 swaps with red 10
 
 At end of round two, we will be in the playoffs.
 
 #### PLAYOFFS
 
-Top four teams are in Presidents.
-
-Next four are in Moore.
-
-Next four are in Tequila
-
-Next four are in Cheap Wine
-
-Next four are in "Bad Moonshine"
+- Top four teams are in Presidents.
+- Next four are in Moore.
+- Next four are in Tequila
+- Next four are in Cheap Wine
+- Next four are in "Bad Moonshine"
 
 #### END OF ROUND RANKINGS / TIE BREAKERS
 
