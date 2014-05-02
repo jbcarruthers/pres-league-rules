@@ -13,7 +13,9 @@
 6. Possible Schedules
 
      6a. Points
+
      6b. Ladder
+
      6c. Balanced
 
 ## 1. Background
@@ -331,10 +333,14 @@ At end of round two, we will be in the playoffs.
 #### PLAYOFFS
 
 Top four teams are in Presidents.
+
 Next four are in Moore.
+
 Next four are in Tequila
+
 Next four are in Cheap Wine
-Next four are in Bad Moonshine
+
+Next four are in "Bad Moonshine"
 
 #### END OF ROUND RANKINGS / TIE BREAKERS
 
@@ -347,8 +353,8 @@ Next four are in Bad Moonshine
 6. Lowest shootout score
 7. Coin-flip/draw straws.
 
-SUMMARY OF PROS-CONS
---------------------
+#### SUMMARY OF PROS-CONS
+
 - PRO: everyone has a fair shot at winning the league
 
 - PRO: there is no artificial re-shuffling based on "A points" and "B points".
