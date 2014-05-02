@@ -7,6 +7,7 @@ Final Proposal - New President's League Rules
 4. Summary of new league format rules
 5. Challenge Round Format Details
 6. Possible Schedules
+
      6a. Points
      6b. Ladder
      6c. Balanced
