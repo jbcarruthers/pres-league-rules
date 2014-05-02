@@ -1,15 +1,14 @@
 # Final Proposal - New President's League Rules
 
 1. Background
-2. Motivating principles for President's League Rules
-3. Changes we need from the club
-4. Summary of new league format rules
-5. Challenge Round Format Details
-6. Possible Schedules
-
+1. Motivating principles for President's League Rules
+1. Changes we need from the club
+1. Summary of new league format rules
+1. Challenge Round Format Details
+1. Possible Schedules
  a. Points
- b. Ladder
- c. Balanced
+ a. Ladder
+ a. Balanced
 
 ## 1. Background
 
