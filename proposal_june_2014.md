@@ -14,12 +14,14 @@ Addendum B. Alternate Schedules and Discussion
 ## Section 0. Executive Summary
 
 - 20 team league, 14 guaranteed, others challenge for 6 spots.
+- one big pre-season challenge round (double elimination or round robin)
 - team entry based on top three players points
+- no mid season challenge rounds
 - league will be 2 or 3 full rounds followed by playoffs
 
 ## Section 1. Background
 
-A. Why President's should change
+### A. Why President's should change
 
 President's League has been Broomstones most competitive league for decades. Its rules and format have changed over the years along with the club. Its "problems" are a largely result of growth of the club membership.
 
@@ -34,7 +36,7 @@ in the league, which is a barrier to entry for new teams.
 Finally, there is a scheduling issue: the season is not long enough to run 3 full round robins (even when Christmas/New Years falls away from Tuesday). This leads to inequities in scheduling the final partial "round robin". 
 
 
-B. About the process
+### B. About the process
 
 Earlier versions of this document were circulated to President's League members for comment throughout the spring of 2014, and an open forum to discuss the changes was announced and held on April 15th, 2014. 
 
@@ -57,17 +59,17 @@ This document represents the results of those discussions and meetings, with det
 
 ## Section 4. Summary of new league rules
 
-A. League Purpose
+### A. League Purpose
 
 The purpose of President's league is to provide Broomstones members a weekly league with the highest possible level of play. 
 
-B. League Size
+### B. League Size
 
 The allocation of points to players at the END OF THE SEASON is unchanged (each team qualifies its four most active players to receive points)
 
 The league will consist of twenty teams during the regular season. During the final weeks of the season the bottom four teams can be assigned byes.
 
-C. League Entry
+### C. League Entry
 
 The top 14 teams by rank are in league without challenge.
 
@@ -77,7 +79,7 @@ There will be no mid-season challenges.
 
 The team rank at the BEGINNING OF THE SEASON will be determined by the sum of the points of each entering team's TOP THREE PLAYERS' points from the immediate prior season. (i.e. team 1 has highest sum-of-three, team 2 has next highest sum-of-three, and so forth)
 
-D. Season Schedule
+### D. Season Schedule
 
 The season schedule will typically consist of full round robin rounds followed by playoffs. The details of the season schedule format options and plans are contained in Section 6: League Scheduling 
 
@@ -156,7 +158,9 @@ Requires 4 draws.
 
 ### Challenge for 27/28/29/30 teams
 
-13/14/15/16 --> 6 double elimination
+There are up to 16 teams vying for six spots.
+
+We will use double elimination to pick the teams.
 
 1. C1-C16
 2. C2-C15
@@ -210,7 +214,7 @@ In a five week block, we would form four pools of five teams.
 
 Each pool would play a full round robin, and each team would get a bye.
 
-The league could either be organized as two "A" pools and two "B" pools, or four divisions "A", "B", "C", and "D".
+The league could either be organized as two "A" pools and two "B" pools, or four divisions "A", "B", "C", and "D". The current proposal is to form two A pools and two B pools, details to follow.
 
 #### THE TEN WEEK BLOCK
 
@@ -222,11 +226,11 @@ Each team would play eight out of the possible nine opponents in their division.
 
 The games "not played" could be chosen from a variety of schemes, including
 
-1v2,3v4,5v6,7v8,9v10
-OR
-1v6,2v7,3v8,4v9,5v10
-OR
-1v10,2v9,3v8,4v7,5v6
+    1v2,3v4,5v6,7v8,9v10
+    OR
+    1v6,2v7,3v8,4v9,5v10
+    OR
+    1v10,2v9,3v8,4v7,5v6
 
 ### THE ELEVEN WEEK BLOCK
 
@@ -292,20 +296,21 @@ For the 10/11 blocks, an A bracket and B bracket are formed.
 
 For the 5 blocks, teams are split into two A brackets and two B brackets, as follows:
 
-Red: A1, A4, A5, A8, A9
-Yellow: A2, A3, A6, A7, A10
+    Red: A1, A4, A5, A8, A9
+    Yellow: A2, A3, A6, A7, A10
 
-Red: B1, B4, B5, B8, B9
-Yellow: B2, B3, B6, B7, B10
+    Red: B1, B4, B5, B8, B9
+    Yellow: B2, B3, B6, B7, B10
 
 After each round, two teams from B swap with two teams from A.
 
 The ten teams in each bracket are ranked, as follows:
-1. Season Points
-2. Head-to-head for season (highest winning percentage among tied teams)
-3. Last Round Points
-4. Head-to-head for last round
-5. Ranking at the beginning of the previous round.
+
+    1. Season Points
+    2. Head-to-head for season (highest winning percentage among tied teams)
+    3. Last Round Points
+    4. Head-to-head for last round
+    5. Ranking at the beginning of the previous round.
 
 Game points are awarded as is currently done:
 
@@ -316,9 +321,10 @@ Game points are awarded as is currently done:
 #### PLAYOFFS
 
 After the final round, all twenty teams are ranked as follows:
-1. Season points
-2. Head-to-head for season (highest winning percentage among tied teams)
-3. Ranking at the beginning of previous round
+
+    1. Season points
+    2. Head-to-head for season (highest winning percentage among tied teams)
+    3. Ranking at the beginning of previous round
 
 
 
@@ -355,6 +361,7 @@ Plugging in the numbers gives:
      8 * Weeks = 10 * Games
 
 The solutions are:
+
  -  5 weeks,  4 games
  - 10 weeks,  8 games
  - 15 weeks, 12 games
@@ -381,32 +388,39 @@ Each round has four 5-team brackets, labelled A, B, C, D.
 Winner of Challenge becomes C5, 5 other teams from challenge go into D.]
 
 After round one,
- bottom two from A swap with top two from B.
- bottom two from B swap with top two from C.
- bottom two from C swap with top two from D. (note: bottom 2 from C are OUT of championship)
+
+     bottom two from A swap with top two from B.
+     bottom two from B swap with top two from C.
+     bottom two from C swap with top two from D. (note: bottom 2 from C are OUT of championship)
 
 At end of round two:
- bottom one from A swaps with top one from B.
- bottom one from B swaps with top one from C. (note: bottom B is OUT of championship)
- bottom one from C swaps with top one from D.
+
+     bottom one from A swaps with top one from B.
+     bottom one from B swaps with top one from C. (note: bottom B is OUT of championship)
+     bottom one from C swaps with top one from D.
 
 After round three:
- bottom one from A swaps with top one from B. (note: bottom A is OUT of championship)
- bottom one from B swaps with top one from C.
- bottom one from C swaps with top one from D.
+
+     bottom one from A swaps with top one from B. (note: bottom A is OUT of championship)
+     bottom one from B swaps with top one from C.
+     bottom one from C swaps with top one from D.
  
  #### PLAYOFFS
 
  After round four:
-  A1-A4 are in Presidents.
-  A5 and B1-B3 are in Moore.
-  B4,B5,C1,C2 are in Tequila
-  C3,C4,C5,D1 are in Cheap Wine.
-  D2-D5 are out.
+
+      A1-A4 are in Presidents.
+      A5 and B1-B3 are in Moore.
+      B4,B5,C1,C2 are in Tequila
+      C3,C4,C5,D1 are in Cheap Wine.
+      D2-D5 are out.
 
 During round 1: all teams can win league
+
 During round 2: only A,B, and C teams can win the league
+
 During round 3: only A and B teams can win the league
+
 During round 4: only current A teams can win the league
 
 #### END OF ROUND RANKINGS / TIE BREAKERS
